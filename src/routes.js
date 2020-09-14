@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
-
+//some comments
 import App from './containers/App/App';
 import HomePage from './containers/HomePage/HomePage';
 import ConnectedUsersPage from './containers/UsersPage/UsersPage';
